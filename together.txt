@@ -1,0 +1,4 @@
+This will be a collaboration.
+
+Capstone Project summery: 
+Predicting which borrowers will defaults (Christoffer Øhlenschlæger)
